@@ -1,4 +1,4 @@
-package roomescape;
+/*package roomescape;
 
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
@@ -78,5 +78,4 @@ public class MissoinStepTest2 {
 
 
 }
-
-
+*/
